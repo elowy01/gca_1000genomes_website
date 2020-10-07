@@ -1,0 +1,117 @@
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:112:44: Cannot find name 'SharedArrayBuffer'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:135:44: Cannot find name 'SharedArrayBuffer'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:180:65: Cannot find name 'SharedArrayBuffer'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:259:28: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:260:28: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:261:29: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:262:29: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:267:39: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:268:39: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:269:38: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:270:38: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:458:17: Property 'asyncIterator' does not exist on type 'SymbolConstructor'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.d.ts:458:35: Cannot find name 'AsyncIterableIterator'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:20:60: Cannot find name 'AsyncIterableIterator'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:21:39: Cannot find name 'unique'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:21:46: '=' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:21:46: Cannot find name 'symbol'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:32:29: Cannot find name 'unique'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:32:36: '=' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:32:36: Cannot find name 'symbol'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:55:43: Cannot find name 'unique'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:55:50: '=' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/events.d.ts:55:50: Cannot find name 'symbol'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/fs.d.ts:80:17: Property 'asyncIterator' does not exist on type 'SymbolConstructor'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/fs.d.ts:80:35: Cannot find name 'AsyncIterableIterator'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/fs.d.ts:2139:52: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/fs.d.ts:2143:18: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/fs.d.ts:2144:18: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/fs.d.ts:2145:18: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/fs.d.ts:2146:22: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/process.d.ts:87:27: Cannot find name 'bigint'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/process.d.ts:289:46: Cannot find name 'ReadonlySet'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/readline.d.ts:121:17: Property 'asyncIterator' does not exist on type 'SymbolConstructor'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/readline.d.ts:121:35: Cannot find name 'AsyncIterableIterator'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/repl.d.ts:361:29: Cannot find name 'unique'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/repl.d.ts:361:36: '=' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/repl.d.ts:361:36: Cannot find name 'symbol'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/repl.d.ts:367:29: Cannot find name 'unique'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/repl.d.ts:367:36: '=' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/repl.d.ts:367:36: Cannot find name 'symbol'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/stream.d.ts:26:51: Cannot find name 'AsyncIterable'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/stream.d.ts:124:21: Property 'asyncIterator' does not exist on type 'SymbolConstructor'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/stream.d.ts:124:39: Cannot find name 'AsyncIterableIterator'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/util.d.ts:24:23: Cannot find name 'unique'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/util.d.ts:24:30: '=' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/util.d.ts:24:30: Cannot find name 'symbol'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/util.d.ts:119:23: Cannot find name 'unique'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/util.d.ts:119:30: '=' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/util.d.ts:119:30: Cannot find name 'symbol'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/util.d.ts:128:56: Cannot find name 'BigInt64Array'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/util.d.ts:129:57: Cannot find name 'BigUint64Array'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/worker_threads.d.ts:9:22: Cannot find name 'unique'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/worker_threads.d.ts:9:29: '=' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/worker_threads.d.ts:9:29: Cannot find name 'symbol'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/ts3.4/base.d.ts:10:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/ts3.4/base.d.ts:11:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/ts3.4/base.d.ts:12:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/ts3.4/base.d.ts:13:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/globals.global.d.ts:1:44: Cannot find name 'globalThis'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/ts3.6/base.d.ts:10:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/ts3.6/base.d.ts:11:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/ts3.6/base.d.ts:12:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/ts3.6/base.d.ts:13:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:3:60: Cannot find name 'asserts'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:3:68: '{' or ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:3:68: Cannot find name 'value'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:57:60: Cannot find name 'asserts'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:57:68: '{' or ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:57:68: Cannot find name 'value'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:66:86: Cannot find name 'asserts'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:66:94: '{' or ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:66:94: Cannot find name 'actual'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:66:101: ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:66:101: Cannot find name 'is'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:66:104: ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:66:104: Cannot find name 'T'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:68:90: Cannot find name 'asserts'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:68:98: '{' or ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:68:98: Cannot find name 'actual'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:68:105: ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:68:105: Cannot find name 'is'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:68:108: ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:68:108: Cannot find name 'T'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:76:39: Cannot find name 'asserts'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:76:47: '{' or ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:76:47: Cannot find name 'value'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:76:53: ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:76:53: Cannot find name 'is'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:76:56: ';' expected.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:76:56: Object is possibly 'null'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/assert.d.ts:76:63: Object is possibly 'undefined'.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/base.d.ts:10:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/base.d.ts:11:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/base.d.ts:12:1: Invalid 'reference' directive syntax.
+Error at /nfs/public/rw/igsr/igsr_website_staging/gca_1000genomes_website/_data-portal/node_modules/@types/node/base.d.ts:13:1: Invalid 'reference' directive syntax.
+[37;40mnpm[0m [0m[31;40mERR![0m [0m[35mcode[0m ELIFECYCLE
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35merrno[0m 1
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m igsr-portal@0.0.1-dev postinstall: `typings install && ngc && rollup -c`
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m Exit status 1
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m 
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m Failed at the igsr-portal@0.0.1-dev postinstall script.
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m This is probably not a problem with npm. There is likely additional logging output above.
+[0m
+[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m A complete log of this run can be found in:
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m     /homes/vg_igsr_adm/.npm/_logs/2020-10-07T14_07_06_555Z-debug.log
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35mcode[0m ELIFECYCLE
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35merrno[0m 1
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m igsr-website@0.0.1-dev postinstall: `npm run jekyll && cd _data-portal && npm install`
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m Exit status 1
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m 
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m Failed at the igsr-website@0.0.1-dev postinstall script.
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m This is probably not a problem with npm. There is likely additional logging output above.
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m Local package.json exists, but node_modules missing, did you mean to install?
+[0m
+[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m A complete log of this run can be found in:
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m     /homes/vg_igsr_adm/.npm/_logs/2020-10-07T14_07_06_584Z-debug.log
+[0m
